@@ -1,4 +1,4 @@
-public class JavaTest {
+public class Java8_2 {
 	public static void main(String[] args) {
 		calcGraph(8);
 	}
